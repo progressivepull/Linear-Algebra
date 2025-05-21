@@ -1,7 +1,7 @@
 # Linear-Algebra
 Linear algebra is a branch of mathematics that deals with the study of vectors, matrices, and linear transformations.
 
-* **Vectors:**
+* **[Vectors:](./Vectors.ipynb)**
 Represent quantities with both magnitude and direction, often visualized as arrows.
 
 * **Matrices:**
