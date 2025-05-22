@@ -7,7 +7,7 @@ Represent quantities with both magnitude and direction, often visualized as arro
 * **[Matrices:](./Matrices.ipynb)**
 Rectangular arrays of numbers used to represent linear transformations and systems of equations.
 
-* **Linear Transformations:**
+* **[Linear Transformations:](./Linear_Transformations.ipynb)**
 Functions that map vectors to other vectors while preserving linear combinations.
 
 * **Vector Spaces:**
