@@ -13,7 +13,7 @@ Functions that map vectors to other vectors while preserving linear combinations
 * **[Vector Spaces:](./Vector_Spaces.ipynb)**
 Sets of vectors where addition and scalar multiplication are defined, following certain rules.
 
-* **Linear Equations:**
+* **[Linear Equations:](./Linear_Equations.ipynb)**
 Equations where variables are multiplied by constants and added together, often represented in matrix form.
 
 * **Determinants:**
