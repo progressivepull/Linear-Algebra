@@ -19,7 +19,7 @@ Equations where variables are multiplied by constants and added together, often 
 * **[Determinants:](./Determinants.ipynb)**
 A scalar value that can be calculated from a square matrix, providing information about the matrix's properties.
 
-* **Eigenvalues and Eigenvectors:**
+* **[Eigenvalues and Eigenvectors:](./Eigenvalues_and_Eigenvectors.ipynb)**
 Special values and vectors associated with a matrix that preserve their direction when the matrix is applied.
 
 * **Basis:**
