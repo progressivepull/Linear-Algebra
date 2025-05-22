@@ -16,7 +16,7 @@ Sets of vectors where addition and scalar multiplication are defined, following 
 * **[Linear Equations:](./Linear_Equations.ipynb)**
 Equations where variables are multiplied by constants and added together, often represented in matrix form.
 
-* **Determinants:**
+* **[Determinants:](./Determinants.ipynb)**
 A scalar value that can be calculated from a square matrix, providing information about the matrix's properties.
 
 * **Eigenvalues and Eigenvectors:**
