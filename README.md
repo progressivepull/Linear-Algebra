@@ -10,7 +10,7 @@ Rectangular arrays of numbers used to represent linear transformations and syste
 * **[Linear Transformations:](./Linear_Transformations.ipynb)**
 Functions that map vectors to other vectors while preserving linear combinations.
 
-* **Vector Spaces:**
+* **[Vector Spaces:](./Vector_Spaces.ipynb)**
 Sets of vectors where addition and scalar multiplication are defined, following certain rules.
 
 * **Linear Equations:**
